@@ -1,0 +1,16 @@
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/bin/Debug/net5.0/Ejercicio4
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/bin/Debug/net5.0/Ejercicio4.deps.json
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/bin/Debug/net5.0/Ejercicio4.runtimeconfig.json
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/bin/Debug/net5.0/Ejercicio4.runtimeconfig.dev.json
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/bin/Debug/net5.0/Ejercicio4.dll
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/bin/Debug/net5.0/Ejercicio4.pdb
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/Ejercicio4.csproj.AssemblyReference.cache
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/Ejercicio4.AssemblyInfoInputs.cache
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/Ejercicio4.AssemblyInfo.cs
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/Ejercicio4.csproj.CoreCompileInputs.cache
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/Ejercicio4.dll
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/refint/Ejercicio4.dll
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/Ejercicio4.pdb
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/Ejercicio4.genruntimeconfig.cache
+/home/plotkin/Academia/istea/ProgramacionLogica/tp_1/Ejercicio4/obj/Debug/net5.0/ref/Ejercicio4.dll
